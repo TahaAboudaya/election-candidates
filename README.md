@@ -1,6 +1,7 @@
 # election-candidates
 Candidates present themselves via the website where many citizens will be able to view the activities of the candidates
-Live Preview [election candidates](rassd.ly)
+Live Preview [election candidates](https://rassd.ly/)
+
 <h1 align="center">Hi 👋, I'm Taha Suliman Aboudaya</h1>
 <h3 align="center">A Software engineer from Libya</h3>
 
@@ -8,7 +9,7 @@ Live Preview [election candidates](rassd.ly)
 
 <p align="left"> <a href="https://twitter.com/tahaaboudaya" target="blank"><img src="https://img.shields.io/twitter/follow/tahaaboudaya?logo=twitter&style=for-the-badge" alt="tahaaboudaya" /></a> </p>
 
-- 🔭 I'm finished working on [election candidates](rassd.ly)
+- 🔭 I'm finished working on [election candidates]
 
 - 👨‍💻 All of my projects are available at [https://github.com/TahaAboudaya](https://github.com/TahaAboudaya)
 
